@@ -1,1 +1,1 @@
-# cothera-frontend-assignment
+# App-assignment
