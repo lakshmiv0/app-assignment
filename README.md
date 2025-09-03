@@ -1,4 +1,4 @@
-# App Assignment
+# React Native Live Transcript Assignment
 
 ## Setup Instructions
 
